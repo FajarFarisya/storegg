@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <section>
-        <nav className="navbar navbar-expand-lg navbar-light bg-light bg-white pt-lg-40 pb-lg-40 pt-30 pb-50">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light bg-white pt-lg-30 pb-lg-30 pt-20 pb-40">
           <div className="container-fluid">
             <a className="navbar-brand" href="/#">
               <svg
@@ -98,7 +98,7 @@ export default function Home() {
         </nav>
       </section>
 
-      <section className="header pt-lg-60 pb-50">
+      <section className="header pt-lg-40 pb-40">
         <div className="container-xxl container-fluid">
           <div className="row gap-lg-0 gap-5">
             <div className="col-lg-6 col-12 my-auto">
